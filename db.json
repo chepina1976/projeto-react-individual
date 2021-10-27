@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "nome": "dully luengo",
+      "email": "alexander69munoz@gmail.com",
+      "telefone": "33322589",
+      "id": 1
+    },
+    {
+      "nome": "Andreina Velazquez",
+      "email": "rrulay@hotmail.com",
+      "telefone": "33322589",
+      "id": 2
+    },
+    {
+      "nome": "Marglorys Marín González",
+      "email": "chepinamg36@gmail.com",
+      "telefone": "95 991389531",
+      "id": 3
+    }
+  ]
+}
