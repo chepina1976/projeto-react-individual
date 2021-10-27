@@ -13,10 +13,22 @@
       "id": 2
     },
     {
-      "nome": "Marglorys Marín González",
+      "nome": "Manuel fuentes",
+      "email": "manuelfuentesj@gmail.com",
+      "telefone": "95984092281",
+      "id": 8
+    },
+    {
+      "nome": "Dully Luengo",
+      "email": "alexandra@gmail.com",
+      "telefone": "991328591",
+      "id": 9
+    },
+    {
+      "nome": "Marglorys Marín",
       "email": "chepinamg36@gmail.com",
-      "telefone": "95 991389531",
-      "id": 3
+      "telefone": "983258232",
+      "id": 7
     }
   ]
 }
